@@ -1,0 +1,37 @@
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .card {
+    background-color: #16213e;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  .primary-btn {
+    background-color: #4361ee;
+    color: white;
+    border: none;
+  }
+  
+  .secondary-btn {
+    background-color: #3f37c9;
+    color: white;
+    border: none;
+  }
+  
+  .danger-btn {
+    background-color: #ef233c;
+    color: white;
+    border: none;
+  }
+  
+  .success-btn {
+    background-color: #06d6a0;
+    color: white;
+    border: none;
+  }
